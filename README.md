@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. I’m Michelle.  A junior frontend developer, soon to graduate from SMU Coding Boot Camp, with special focus on HTML, CSS and JavaScript.  I am highly organized and loyal and lover of all things pug related.  I have a passion for creativity and interactive designs.
 
 <!--
 **MichelleBerta/MichelleBerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
