@@ -1,4 +1,6 @@
-### Hi there 👋. I’m Michelle.  A junior frontend developer, soon to graduate from SMU Coding Boot Camp, with special focus on HTML, CSS and JavaScript.  I am highly organized, loyal and lover of all things pug related.  I have a passion for creativity and interactive designs.
+### Hi there 👋. I’m Michelle, a junior frontend developer with special focus on front end development.  I am highly organized, loyal and lover of all things pug related.  I have a passion for creativity and interactive designs.
+
+
 ![MichelleBerta](assets/journey.png)
 
 <!--
