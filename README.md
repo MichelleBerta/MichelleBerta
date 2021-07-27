@@ -1,5 +1,4 @@
-### Hi there 👋. I’m Michelle, a junior frontend developer with special focus on front end development.  I am highly organized, loyal and lover of all things pug related.  I have a passion for creativity and interactive designs.
-
+### Hi there 👋. I’m Michelle, a Front End Developer, with a background in leadership and a passion for designing imaginative and interactive websites. I am a resourceful problem solver recognized for exceptional interpersonal communication abilities, being well organized, and thriving in collaborative team environments. I will bring lots of energy and dedication to any team.
 
 ![MichelleBerta](assets/journey.png)
 
